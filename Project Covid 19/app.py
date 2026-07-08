@@ -87,5 +87,5 @@ st.markdown("""
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/atharv-singh-429968348/
 
-💻 **GitHub:** 
+💻 **GitHub:** https://github.com/atharv653/Detect_Covid_19.git
 """)
