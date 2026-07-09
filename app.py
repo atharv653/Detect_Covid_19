@@ -80,7 +80,7 @@ if uploaded_file is not None:
 # Developer Corner
 # ---------------------------------------------------
 st.markdown("---")
-st.header("👨‍💻 Developer Corner")
+st.header(" About Developer")
 
 st.markdown("""
 **Developer:** ATHARV SINGH
