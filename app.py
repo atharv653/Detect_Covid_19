@@ -83,9 +83,9 @@ st.markdown("---")
 st.header("👨‍💻 Developer Corner")
 
 st.markdown("""
-**Developer:** Vivek Srivastava
+**Developer:** ATHARV SINGH
 
-🔗 **LinkedIn:** www.linkedin.com/in/vivek-srivastava-0a878a329
+🔗 **LinkedIn:** https://www.linkedin.com/in/atharv-singh-429968348/
 
-💻 **GitHub:** https://github.com/viveksrivastava045-cyber/covid_19_detection
+💻 **GitHub:** https://github.com/atharv653
 """)
